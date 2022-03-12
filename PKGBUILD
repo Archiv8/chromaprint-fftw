@@ -20,8 +20,8 @@ url="https://acoustid.org/chromaprint"
 license=("GPL")
 depends=(
     # Official Arch Linux repositories
-    "fftw"
     "ffmpeg"
+    "fftw"
     )
 makedepends=(
     # Official Arch Linux repositories
