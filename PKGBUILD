@@ -5,10 +5,15 @@
 # repository root directory, see https://github.com/koalaman/shellcheck/wiki
 # and https://archiv8.github.io for further information.
 # shellcheck disable=SC2034,SC2154
+# shellcheck disable=SC2034,SC2154
+# ToDo: Add files: User documentation
+# ToDo: Add files: Tooling
+# FixMe: Namcap warnings and errors
 
 # Maintainer: Francesco Masala <mail@francescomasala.me>
 # Contributor:  Francesco Masala <mail@francescomasala.me>
 # Contributor: Ross Clark <contact@artisteducator.com>
+
 
 
 pkgname=chromaprint-fftw
