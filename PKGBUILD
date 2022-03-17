@@ -15,7 +15,6 @@
 # Contributor: Ross Clark <contact@artisteducator.com>
 
 
-
 pkgname=chromaprint-fftw
 pkgver=1.5.1
 pkgrel=1
