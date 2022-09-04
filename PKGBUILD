@@ -14,7 +14,7 @@
 # Maintainer: Ross Clark <https://github.com/orgs/Archiv8/chromaprint-fftw/discussions>
 # Contributor: Ross Clark <https://github.com/orgs/Archiv8/chromaprint-fftw/discussions>
 
-pkgname=chromaprint-fftw
+pkgname="chromaprint-fftw"
 pkgver=1.5.1
 pkgrel=1
 pkgdesc="Library for extracting fingerprints from any audio source (uses fftw for FFT calculations instead of ffmpeg)"
